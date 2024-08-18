@@ -1,0 +1,38 @@
+*{
+    background-color: #353935;
+    color: white;
+}
+
+.alien {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.yes{
+    background-color: lightgrey;
+    color: dimgrey;
+    margin-left: 13%;
+    width: 120px;
+    height: 40px;
+    border: 2px solid lawngreen;
+    font-size: 20px;
+}
+
+.no {
+    margin-left: 5px;
+    background-color: lightgrey;
+    color: dimgray;
+    width: 120px;
+    height: 40px;
+    border: 2px solid orangered;
+    font-size: 20px
+}
